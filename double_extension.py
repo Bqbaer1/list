@@ -1,5 +1,6 @@
 import requests
 
+# das ist die Liste für php extensions unter folgendem link
 # response = requests.get("https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/web-extensions.txt")
 extensions = ['.php', '.phtml', '.php4', '.php5', '.php7', '.phps', '.php3', '.phps', '.phpt', '.phar']
 
